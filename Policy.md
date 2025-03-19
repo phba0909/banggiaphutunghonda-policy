@@ -6,11 +6,11 @@
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<h1>Bang gia phu tung Honda's Privacy Policy</h1>
+<h1>Bang gia phu tung xe may's Privacy Policy</h1>
 <p>Last updated: December, 05, 2024</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
-Our Privacy page : https://github.com/phba0909/banggiaphutunghonda-policy/blob/main/Policy.md</p>
+Our Privacy page : https://github.com/phba0909/banggiaphutungxemay-policy/blob/main/Policy.md</p>
 <h2>About us :</h2>
 <p> Developers : Bao An</p>
 <p>App name : Bang gia phu tung Honda </p>
